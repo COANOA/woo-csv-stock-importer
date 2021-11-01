@@ -1,5 +1,7 @@
-=== Your Plugin Name ===
-Contributors: WPBeginner
+# Woo CSV Stock Importer Plugin
+
+=== Woo CSV Stock Importer ===
+Contributors: Julian Gerber
 Tags: woocommerce, csv, import, stock
 Requires at least: 5.5
 Tested up to: 5.5
